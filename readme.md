@@ -30,3 +30,10 @@
 ```js
  npm start
 ```
+
+![image alt](https://github.com/AliChkhiro/A-Simple_NFT_MarketPlace_App/blob/303a1c5c33fcdc59727169a645d9cd1e7fd4aa3a/1.jpg)
+
+![image alt](https://github.com/AliChkhiro/A-Simple_NFT_MarketPlace_App/blob/303a1c5c33fcdc59727169a645d9cd1e7fd4aa3a/2.jpg)
+
+![image alt](https://github.com/AliChkhiro/A-Simple_NFT_MarketPlace_App/blob/303a1c5c33fcdc59727169a645d9cd1e7fd4aa3a/3.jpg)
+
